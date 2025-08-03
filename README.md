@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sabthegreat007
-- 👀 I’m interested in Dapps,Smart contracts
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m @sabirabanfa
+- 👀 I’m interested in fashion innovation
+- 🌱 I’m currently learning about product verification
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me sabirabanfa@gmail.com
 
